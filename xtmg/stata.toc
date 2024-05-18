@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtmg Common Correlated Effects estimators Use xtmg With STATA 18
