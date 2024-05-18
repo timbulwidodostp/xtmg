@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtmg': Common Correlated Effects estimators Use xtmg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtmg.ado
+f xtmg.sthlp
