@@ -3,6 +3,8 @@ Common Correlated Effects estimators Use xtmg With STATA 18
 
 Common Correlated Effects Mean Groups Use xtmg With STATA 18
 
+https://www.youtube.com/watch?v=4LrjKLiJyi4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
